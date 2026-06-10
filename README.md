@@ -1,6 +1,6 @@
 # 🌊 FloodWatch - AI-Powered Flood Prediction System
 
-A production-grade Machine Learning web application built with **Streamlit** that predicts flood severity across **4 levels** using 12 real-world environmental indicators — powered by Gradient Boosting with interactive maps, seasonal analysis, and emergency recommendations.
+A production-grade Machine Learning web application built with **Streamlit** that predicts flood severity across **4 levels** using 12 real-world environmental indicators - powered by Gradient Boosting with interactive maps, seasonal analysis, and emergency recommendations.
 
 ---
 
